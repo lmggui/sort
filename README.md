@@ -1,3 +1,3 @@
 # sort
-test  <\br> 
+test  \n
 test
